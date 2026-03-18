@@ -28,6 +28,7 @@ setup(
             'move_turtle = my_turtle_package.move_turtle:main',
             'move_circle = my_turtle_package.move_circle:main',
             'move_triangle = my_turtle_package.move_triangle:main',
+            'move_multi = my_turtle_package.move_multi:main',
         ],
     },
 )
