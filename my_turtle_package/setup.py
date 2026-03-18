@@ -26,6 +26,8 @@ setup(
         'console_scripts': [
             'my_node = my_turtle_package.my_node:main',
             'move_turtle = my_turtle_package.move_turtle:main',
+            'move_circle = my_turtle_package.move_circle:main',
+            'move_triangle = my_turtle_package.move_triangle:main',
         ],
     },
 )
